@@ -1,6 +1,7 @@
 # Watch out for homicides :oncoming_police_car::ambulance:(Dashboard for Homicide Cases in America) 
 
 **Heroku**: [https://dash-app-murder.herokuapp.com](https://dash-app-murder.herokuapp.com)
+**Organization Link**: [https://github.com/DahboardTeam/HomicideDashboard](https://github.com/DahboardTeam/HomicideDashboard)
 
 ## Welcome!
 
